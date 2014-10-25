@@ -13,7 +13,7 @@ Battle Pouic: The Origin of the start of the very first Beggining of the Origin 
 		Part de zéro et évolue naturellement au kill tel que:
 				mastodonte-parasite-prédateur EVOLUTION DEPENDANTE (Evolution vers sa faiblesse progressive jusqu'à transformation totale)
 				puissant<-résistant<-vif EVOLUTION INDEPENDANTE (vitesse, force, défense)
-				point d'action et point de déplacement
+				point d'action et point de déplacement ("je pense qu'il va aller là donc je fais ça")
 	*****Gestion des unités*****
 		Nombre de slot de conservation limite et périodiquement croissant
 		Gain d'unités aléatoirement au début du combat et choix de conservation. Ces premières unités sont basiques avec un pas d'évolution aléatoire.
@@ -22,7 +22,9 @@ Battle Pouic: The Origin of the start of the very first Beggining of the Origin 
 		Demi-tour perdant.
 		Vie continue (non discrète) 	
 			ex: proie survit au prédateur si bonnes stats mais en mauvais état...
+		Brouillard de guerre.
 		Chef
+		Temps de décision proportionnel à la situation (proche de l'ennemi) et du nombre d'unité (genre 2sec par unités).
 	*****Visuel*****
 		Nom coloré selon la classe (prédateur etc) 
 	*****Menu*****
@@ -30,6 +32,11 @@ Battle Pouic: The Origin of the start of the very first Beggining of the Origin 
 		Le pognon peut servir à l'évolution de créatures mais dans les moindres limites. 
 		Le nombre de slot initial est bloqué, on dépense le pognon pour agrandir son "coffre" et y conserver nos favoris. Les slots vides dans le choix des unités sont 
 		automatiquement rempli par des unités au hasard.
+	*****Musique*****
+		Composition d'une musique de combat, une de déplacement (basique), une d'embuscade etc...
+		Chaque phase de déplacement effective sera accompagné de la musique adéquat (guerre si combat prévu etc), phases de décision accompagné de morceaux de la musique de réflexion  
+			(tendue si position mauvaise etc)
+		
 		
 ========Versionnage=====
 ****Version 0*******
