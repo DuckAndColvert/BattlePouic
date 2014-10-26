@@ -1,0 +1,14 @@
+========================================
+==========GAME DESIGN DOCUMENT==========
+========================================
+Version zéro
+
+
+La version zéro est la version la plus simple du projet Battle Pouic: elle ne comporte pas gameplay et se contente l'affichage et la mise à jour des élements les plus important du jeu: la map ainsi que les deux équipes.
+Aucune interaction n'est à prévoir pour cette première version.
+
+===La map===
+
+===Les unités===
+
+===Les équipes===
